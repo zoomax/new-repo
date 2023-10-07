@@ -3,3 +3,9 @@ fav foods
 meat
 fruits
 vegies
+===============================
+fav movies
+==========
+The Green Mile
+Shawshank redeemption
+The Great Magnificent 
